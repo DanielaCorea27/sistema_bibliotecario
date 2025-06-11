@@ -1,0 +1,545 @@
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmBienvenida.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginAdmin.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginUsuario.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\MINEDUCYT\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginAdmin.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Clarissa\Desktop\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginAdmin.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+F:\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.SuggestedBindingRedirects.cache
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginAdmin.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\ITCA-FEPADE\Desktop\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginAdmin.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\ismae\OneDrive\Escritorio\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginAdmin.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Desktop\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginPrincipal.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\GOOD\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginPrincipal.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\MINEDUCYT\Documents\Visual Studio 2022\Proyectos\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe.config
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\NuGet.Frameworks.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ZstdSharp.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\EnvDTE.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\stdole.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.pdb
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Google.Protobuf.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\MySql.Data.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Buffers.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Memory.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarLibros.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmAdministrarUsuarios.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioDevolucion.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmFormularioPrestamos.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialDevoluciones.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialPrestamos.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmHistorialReservacionesLibros.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.informeDevoluciones.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmLoginPrincipal.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalAdmin.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmMenuPrincipalUsuario.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.Properties.Resources.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.frmSolicitudesPrestamosUsuarios.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.csproj.CopyComplete
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.exe
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.pdb
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.informePrestamos.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.informeReservaciones.resources
+C:\Users\MINEDUCYT\Downloads\Proyecto_sistemaBibliotecario\library\sistemaBibliotecario\obj\Debug\sistemaBibliotecario.informeLibros.resources
